@@ -48,11 +48,11 @@ you can refer to this code: https://www.kaggle.com/enwei26/mnist-digits-pytorch-
           Dropout-24             [-1, 16, 2, 2]               0
       BatchNorm2d-25             [-1, 16, 2, 2]              32
            Conv2d-26             [-1, 10, 2, 2]             160
-================================================================
+----------------------------------------------------------------
 Total params: 10,216
 Trainable params: 10,216
 Non-trainable params: 0
-----------------------------------------------------------------
+-----------------------------------------------------------------
 Input size (MB): 0.00
 Forward/backward pass size (MB): 0.44
 Params size (MB): 0.04
