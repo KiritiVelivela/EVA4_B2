@@ -52,10 +52,5 @@ you can refer to this code: https://www.kaggle.com/enwei26/mnist-digits-pytorch-
 Total params: 10,216
 Trainable params: 10,216
 Non-trainable params: 0
------------------------------------------------------------------
-Input size (MB): 0.00
-Forward/backward pass size (MB): 0.44
-Params size (MB): 0.04
-Estimated Total Size (MB): 0.48
-----------------------------------------------------------------
 
+-----------------------------------------------------------------
