@@ -20,7 +20,7 @@ you can refer to this code: https://www.kaggle.com/enwei26/mnist-digits-pytorch-
 5. I used Dropout only to get the final edge accuracy of .4 or something.
 
 ----------------------------------------------------------------
-        Layer (type)               Output Shape         Param #
+        Layer (type)               Output Shape         Param
 ================================================================
             Conv2d-1            [-1, 8, 26, 26]              72
            Dropout-2            [-1, 8, 26, 26]               0
